@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: 'Bakso Sapi';
   src: local('Bakso Sapi'), url(./fonts/BaksoSapi.otf) format('opentype');
@@ -22,16 +23,43 @@ background-color: #030C34;
   background-color: #079CFD;
   min-height: 5vh;
   display: flex;
+=======
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+>>>>>>> b2eb569215e77b8ef234026ae8381f9c0bb6d37b
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
+<<<<<<< HEAD
 .App{
   background-color: rgb(210, 129, 30);
   min-height: 100vh;
   width: 100%;
 }
 
+=======
+>>>>>>> b2eb569215e77b8ef234026ae8381f9c0bb6d37b
 .App-link {
   color: #61dafb;
 }
@@ -44,6 +72,7 @@ background-color: #030C34;
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
 
 .Title{
@@ -198,3 +227,5 @@ background-color: #030C34;
   padding-left: 30px;
 }
 
+=======
+>>>>>>> b2eb569215e77b8ef234026ae8381f9c0bb6d37b
